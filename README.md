@@ -1,5 +1,5 @@
-# ping-pong-game
-Ping Pong Game using Java
+# pong-game
+Pong Game using Java
 
 Preview:-
 
